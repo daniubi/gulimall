@@ -100,7 +100,7 @@ public class OrderReturnApplyEntity implements Serializable {
 	/**
 	 * ???
 	 */
-	private String description?;
+	private String description;
 	/**
 	 * ƾ֤ͼƬ???Զ??Ÿ
 	 */
